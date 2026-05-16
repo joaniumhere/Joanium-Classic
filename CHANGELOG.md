@@ -146,19 +146,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-[Unreleased]: https://github.com/Joanium/Joanium/compare/v2026.421.0...HEAD
-[2026.421.0]: https://github.com/Joanium/Joanium/releases/tag/v2026.421.0
-[2026.420.1]: https://github.com/Joanium/Joanium/releases/tag/v2026.420.1
-[2026.419.0]: https://github.com/joanium/joanium/releases/tag/v2026.419.0
-[2026.418.0]: https://github.com/joanium/joanium/releases/tag/v2026.418.0
-[2026.417.0]: https://github.com/joanium/joanium/releases/tag/v2026.417.0
-[2026.416.0]: https://github.com/joanium/joanium/releases/tag/v2026.416.0
-[2026.415.1]: https://github.com/joanium/joanium/releases/tag/v2026.415.1
-[2026.415.0]: https://github.com/joanium/joanium/releases/tag/v2026.415.0
-[2026.414.0]: https://github.com/joanium/joanium/releases/tag/v2026.414.0
-[2026.413.2]: https://github.com/joanium/joanium/releases/tag/v2026.413.2
-[2026.413.1]: https://github.com/joanium/joanium/releases/tag/v2026.413.1
-[2026.413.0]: https://github.com/joanium/joanium/releases/tag/v2026.413.0
-[2026.412.0]: https://github.com/joanium/joanium/releases/tag/v2026.412.0
-[2026.407.5]: https://github.com/joanium/joanium/releases/tag/v2026.407.5
-[2026.407.0]: https://github.com/joanium/joanium/releases/tag/v2026.407.0
+[Unreleased]: https://github.com/Joanium/Joanium-Classic/compare/v2026.421.0...HEAD
+[2026.421.0]: https://github.com/Joanium/Joanium-Classic/releases/tag/v2026.421.0
+[2026.420.1]: https://github.com/Joanium/Joanium-Classic/releases/tag/v2026.420.1
+[2026.419.0]: https://github.com/joanium/joanium-classic/releases/tag/v2026.419.0
+[2026.418.0]: https://github.com/joanium/joanium-classic/releases/tag/v2026.418.0
+[2026.417.0]: https://github.com/joanium/joanium-classic/releases/tag/v2026.417.0
+[2026.416.0]: https://github.com/joanium/joanium-classic/releases/tag/v2026.416.0
+[2026.415.1]: https://github.com/joanium/joanium-classic/releases/tag/v2026.415.1
+[2026.415.0]: https://github.com/joanium/joanium-classic/releases/tag/v2026.415.0
+[2026.414.0]: https://github.com/joanium/joanium-classic/releases/tag/v2026.414.0
+[2026.413.2]: https://github.com/joanium/joanium-classic/releases/tag/v2026.413.2
+[2026.413.1]: https://github.com/joanium/joanium-classic/releases/tag/v2026.413.1
+[2026.413.0]: https://github.com/joanium/joanium-classic/releases/tag/v2026.413.0
+[2026.412.0]: https://github.com/joanium/joanium-classic/releases/tag/v2026.412.0
+[2026.407.5]: https://github.com/joanium/joanium-classic/releases/tag/v2026.407.5
+[2026.407.0]: https://github.com/joanium/joanium-classic/releases/tag/v2026.407.0

@@ -227,6 +227,9 @@ body {
   line-height: 1;
   display: flex;
   align-items: baseline;
+  justify-content: center;
+  text-align: center;
+  flex-wrap: wrap;
   gap: 0;
   opacity: 0;
   transform: translateY(72px);

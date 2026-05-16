@@ -1,6 +1,6 @@
-# Joanium — Agent Context
+# Joanium Classic — Agent Context
 
-Joanium is a **local-first AI desktop assistant** built on Electron (Node.js ≥ 24).
+Joanium Classic is a **local-first AI desktop assistant** built on Electron (Node.js ≥ 24).
 It supports multi-model chat, automations, scheduled agents, MCP, personas, skills,
 and real integrations with Anthropic, OpenAI, Gemini, Ollama, Gmail, GitHub, and more.
 
