@@ -180,7 +180,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide, [CODE_OF_CONDUCT.md](
 
 ## License
 
-Joanium is source-available under the [PolyForm Noncommercial License 1.0.0](LICENSE.md) —
+Joanium Classic is source-available under the [PolyForm Noncommercial License 1.0.0](LICENSE.md) —
 free for personal, educational, and noncommercial use.
 
 Commercial use requires a separate paid license. Contact **Joel Jolly** at
