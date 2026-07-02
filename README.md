@@ -178,11 +178,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide, [CODE_OF_CONDUCT.md](
 
 ---
 
-## 📄 License
+## License
 
-This project is licensed under the **[Apache License 2.0](LICENSE)**.
+Joanium is source-available under the [PolyForm Noncommercial License 1.0.0](LICENSE.md) —
+free for personal, educational, and noncommercial use.
 
-See [LICENSE](LICENSE) for the full terms.
+Commercial use requires a separate paid license. Contact **Joel Jolly** at
+**joaniumhere@gmail.com** to arrange one.
 
 ---
 
